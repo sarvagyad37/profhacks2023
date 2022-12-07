@@ -66,7 +66,7 @@ export default function Navigation() {
           <div className="hidden items-center justify-end md:flex md:flex-1 lg:w-0">
             
             <a
-              href="#"
+              href="https://forms.gle/2BFaZANmZU6oEe7d6"
               className="ml-8 inline-flex items-center justify-center whitespace-nowrap rounded-md border border-black bg-white px-6 py-4 text-sm font-medium text-black shadow-sm hover:bg-gray-50"
             >
               REGISTER →
@@ -116,7 +116,7 @@ export default function Navigation() {
             <div className="space-y-6 py-6 px-5">
               <div>
                 <a
-                  href="#"
+                  href="https://forms.gle/2BFaZANmZU6oEe7d6"
                   className="flex w-full items-center justify-center rounded-md border border-black bg-white px-4 py-2 text-base font-medium text-black shadow-sm hover:bg-gray-50"
                 >
                   REGISTER →
