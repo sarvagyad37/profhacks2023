@@ -17,16 +17,16 @@ const solutions = [
   },
   {
     name: 'TEAM',
-    href: '#',
+    href: '#team',
     icon: UsersIcon,
   },
   { 
     name: 'SPONSORS',
-    href: '#', 
+    href: '#sponsors', 
     icon: SparklesIcon },
   {
     name: 'FOLLOW US',
-    href: '#',
+    href: '#follow',
     icon: MegaphoneIcon,
   },
 ]
