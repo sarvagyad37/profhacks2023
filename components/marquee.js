@@ -18,7 +18,7 @@ export default function Marquee() {
           <span className="mx-4 whitespace-nowrap"><Image className="min-w-[80px] sm:min-w-[100px] animate-spin" src={spin} alt="spin" /></span>
           <span className="text-2xl sm:text-4xl mx-4 whitespace-nowrap">RU READY?</span>
           <span className="mx-4 whitespace-nowrap"><Image className="min-w-[80px] sm:min-w-[100px] animate-spin" src={spin} alt="spin" /></span>
-        </div>Name
+        </div>
       </div>
       
     )
