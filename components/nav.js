@@ -116,7 +116,7 @@ export default function Navigation() {
             <div className="space-y-6 py-6 px-5">
               <div>
                 <a
-                  href="https://forms.gle/2BFaZANmZU6oEe7d6"
+                  href="hhttps://docs.google.com/forms/d/e/1FAIpQLSf6jjk4Y1XddxpVjh4UfbjX1gy6N2Ft0gImi1ZFMfkxZ-O2qQ/viewform?usp=sf_link"
                   className="flex w-full items-center justify-center rounded-md border border-black bg-white px-4 py-2 text-base font-semibold text-black shadow-sm hover:bg-gray-50"
                 >
                   REGISTER →

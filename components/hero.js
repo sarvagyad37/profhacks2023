@@ -12,7 +12,7 @@ export default function Hero() {
             <div className="mt-5 max-w-md mx-auto sm:flex sm:justify-center md:mt-8">
               <div className="rounded-md shadow">
                 <a
-                  href="https://forms.gle/2BFaZANmZU6oEe7d6"
+                  href="https://docs.google.com/forms/d/e/1FAIpQLSf6jjk4Y1XddxpVjh4UfbjX1gy6N2Ft0gImi1ZFMfkxZ-O2qQ/viewform?usp=sf_link"
                   className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-[#f8450b] hover:bg-[#ce4011] md:py-4 md:text-lg md:px-10"
                 >
                   REGISTER NOW
