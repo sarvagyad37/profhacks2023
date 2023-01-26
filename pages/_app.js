@@ -1,5 +1,5 @@
 import '../styles/globals.css'
-import {Space_Grotesk } from '@next/font/google'
+import { Space_Grotesk } from '@next/font/google'
 import fancyFont from '@next/font/local'
 
 const mainfont = Space_Grotesk({
